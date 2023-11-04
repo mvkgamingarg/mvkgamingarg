@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mvkgamingarg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                     Dios conmigo, quién contra mi.
 
-<!---
-mvkgamingarg/mvkgamingarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello 👋
+const Fernando = {
+  code: [HTML 5, CSS 3, Php 8, Javascript , Node Js, C#], <br>
+  tools: [Bootrap 5, Vue Js 3, Laravel 10, Express Js, Git],<br>
+  bd: [MySql, Mongo Db]
+}
